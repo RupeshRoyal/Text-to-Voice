@@ -1,0 +1,47 @@
+/* Light mode styles */
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+
+/* Common styles */
+h1 {
+    margin-top: 20px;
+    color:#00ffff;
+    padding: 2%;
+}
+
+textarea {
+    width: 400px;
+    height: 150px;
+    resize: none;
+    background-color: #fef9a7;
+    border:3.5px;
+     border-radius: 2%;
+    border-style: solid;
+    border-color: #D61C4E;
+    padding: 3%;
+}
+
+.convertbutton {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #FA7D09;
+   border-radius: 50%;
+   padding: 1.5% ;
+}
+
+.modebutton{
+    margin-left:93% ;
+     border-radius: 100%;
+    width: auto;
+    
+}
+
+.foot{
+    color:aquamarine;
+    margin-top: 15%;
+}
